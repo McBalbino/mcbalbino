@@ -1,4 +1,4 @@
-### Olá! Eu sou Maria Cecylia S. Balbino
+### Olá! Eu sou Maria Cecylia Balbino
 
 
 - 💻 Hoje trabalho com backend e testes
