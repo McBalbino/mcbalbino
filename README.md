@@ -1,8 +1,8 @@
 ### Olá! Eu sou Maria Cecylia S. Balbino
 
 
-- 🔭 Hoje trabalho com backend e testes
-- 🌱 Estudando C# e Unity
+- 💻 Hoje trabalho com backend e testes
+- 📘 Estudando C# e Unity
 
 <div align="center">
   <a href="https://github.com/McBalbino">
