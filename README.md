@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/McBalbino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=McBalbino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McBalbino&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=McBalbino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McBalbino&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +16,7 @@
   <img align="center" alt="Maria-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Maria-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
 
    ##
