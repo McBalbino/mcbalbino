@@ -9,6 +9,15 @@
 - 🔒 Interested in DevSecOps, automation, reliability, and cloud security
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake.svg?v=1" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake.svg?v=1" />
+  </picture>
+</p>
+
+
+<p align="center">
   <a href="mailto:cecyliasb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
