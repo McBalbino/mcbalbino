@@ -46,10 +46,3 @@ Best fix: deploy your own github-readme-stats instance and replace the domain.
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/McBalbino/McBalbino/output/github-snake.svg" />
-  </picture>
-</p>
